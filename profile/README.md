@@ -1,42 +1,71 @@
-# Hyperscale AV
+# Hyperscale AV  
 
 ## 🌟 Why We Exist
 
-Our purpose is to bring forth every skill and insight we possess to elevate those around us. 
-We're guided by the belief that withholding what we can do or what we know robs others—and ourselves—of growth and possibility.
+### We exist to elevate practitioners.
 
-## 🎯 Our Just Cause
+Hyperscale AV was founded on a simple belief:  
+**mastery is never finished — it is practiced.**
 
-We're building a world where technology amplifies human capabilities and AV professionals freely create and share their genius. Through open collaboration and genuine care, we're shaping a future of boundless innovation and possibility.
+Large-scale and institutional AV systems demand continuous care, attention, and improvement. Practitioners carry that responsibility every day, often without the authority, tools, or visibility they deserve.
 
-## 🧡 Our Values
-
-### Care Deeply
-We empower growth and build authentic connections through genuine empathy and unwavering support for others.
-
-###  Create Boldly
-We design breakthrough solutions by transforming limitations into opportunities and pushing the boundaries of what's possible.
-
-###  Share Openly
-We freely exchange knowledge and foster collaborative learning by breaking down barriers to information.
-
-## 🛠️ Our Solutions
-
-### Education & Training
-We offer professional development for AV pros. Our content is focused on scaled management of AV systems, including monitoring, control, asset management, remote connectivity, and more.
-
-### Open Source Software
-We leverage Zabbix and several other tools to deliver a single-pane-of-glass and enable operators to monitor & manage their AV systems. We develop integrations (drivers/templates) that enable seamless connectivity across platforms and devices.
-
-### Professional Services
-We deliver expert implementation consulting, architecture design, and ongoing technical support. Our team provides custom development solutions and handles complex migration projects.
-
-### Hosting Solutions
-We maintain secure cloud infrastructure and managed hosting environments built for high availability. Our scalable platforms include robust data storage and backup services.
-
-## 🤝 Join Our Community
-We believe knowledge is for sharing. If you agree, visit [hyperscaleav.com](https://hyperscaleav.com) to learn how we're building the future of AV together.
+We exist to change how that work is supported.
 
 ---
 
-*"When we share knowledge and care for one another, our potential is limitless."* - Fred Loucks, Founder
+## 🎯 Our Just Cause
+
+### Practitioners are the constant. Systems are not.
+
+Technology comes and goes. Vendors change. Architectures evolve.  
+Practitioners remain.
+
+Lasting improvement in complex AV environments doesn’t come from tools alone. It comes from people who understand the systems deeply, who live with their consequences, and who are committed to improving them over time.
+
+Our purpose is to give those practitioners **clarity, credibility, and leverage** — so they can advocate for better systems from within their organizations.
+
+We don’t sell transformation.  
+We support informed evaluation, shared understanding, and confident internal leadership.
+
+---
+
+## 🧡 What We Believe
+
+### 🧠 Practice over perfection  
+Large-scale AV systems are never “done.” They are refined through observation, iteration, and experience.
+
+### 🔓 Openness builds trust  
+We favor transparent architectures, open platforms, and systems that can be explained — not defended.
+
+### 🤝 Knowledge compounds when shared  
+Learning shouldn’t end when a class does. It should continue through peers, reference environments, and ongoing dialogue.
+
+### 🛡️ Ownership matters  
+Practitioners deserve systems they can own, understand, and evolve — without lock-in or dependency.
+
+---
+
+## 🛠️ How This Shows Up
+
+### 🎓 Education & Training  
+We deliver professional education designed to create internal champions — not just transfer information. Our courses emphasize real-world decision-making, risk reduction, and long-term operability.
+
+### 🧩 Reference Architectures & Tools  
+Through Omniglass and related integrations, we provide opinionated, self-hosted observability environments that make complex AV systems visible, explainable, and defensible.
+
+### 🧑‍💼 Advisory & Professional Services  
+We support evaluation, pilots, and architecture design with an advisory-first posture. Our role is to help practitioners succeed internally, not to push predetermined outcomes.
+
+### 🧭 Practitioner Community  
+We maintain a private practitioner circle where peers connect, share experiences, ask real questions, and learn from one another over time.
+
+---
+
+## 🌱 We Are the Change
+
+Hyperscale AV is not a platform, a funnel, or a hype engine.
+
+It is a growing body of practice — shaped by practitioners who care deeply about doing this work well.
+
+If this resonates, you’re not an audience member.  
+You’re already part of the movement.
