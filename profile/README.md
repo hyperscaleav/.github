@@ -43,7 +43,7 @@ Observability fragmented across vendor portals is not observability. Unified arc
 ### 🛡 Ownership is structural
 Practitioners deserve systems they can own, understand, and evolve — without lock-in, per-device taxation, or dependency.
 
-### 🤝 Knowledge must compound
+### 🤝 Knowledge compounds when shared
 Observability is a practice, not a purchase. Learning continues through shared environments, peer exchange, and ongoing refinement.
 
 ---
