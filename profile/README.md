@@ -31,19 +31,19 @@ We support informed evaluation, shared understanding, and confident internal lea
 
 ## 🧡 What We Believe
 
-###🧠 Practice over perfection
+### 🧠 Practice over perfection
 Large-scale AV systems are never finished. They are improved through disciplined observation and iteration — not one-time deployments.
 
-###🔓 Openness is non-negotiable
+### 🔓 Openness is non-negotiable
 We favor transparent architectures and open platforms that can be explained, audited, and sustained — not defended.
 
-###🧩 Fragmentation is failure
+### 🧩 Fragmentation is failure
 Observability fragmented across vendor portals is not observability. Unified architecture is required for system-level clarity.
 
-###🛡 Ownership is structural
+### 🛡 Ownership is structural
 Practitioners deserve systems they can own, understand, and evolve — without lock-in, per-device taxation, or dependency.
 
-###🤝 Knowledge must compound
+### 🤝 Knowledge must compound
 Observability is a practice, not a purchase. Learning continues through shared environments, peer exchange, and ongoing refinement.
 
 ---
