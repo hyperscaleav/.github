@@ -1,74 +1,84 @@
-# Hyperscale AV  
+# Hyperscale AV
 
-## 🌟 Why We Exist
+Hyperscale AV advances enterprise AV observability for large-scale institutions.
 
-### We exist to elevate practitioners.
-
-Hyperscale AV was founded on a simple belief:  
-**mastery is never finished — it is practiced.**
-
-Large-scale and institutional AV systems demand continuous care, attention, and improvement. Practitioners carry that responsibility every day, often without the authority, tools, or visibility they deserve.
-
-We exist to change how that work is supported.
+We design structure where vigilance once carried the load.
 
 ---
 
-## 🎯 Our Just Cause
+## Why
 
-### Practitioners are the constant. Systems are not.
+We believe work is better when people have agency.
 
-Technology comes and goes. Vendors change. Architectures evolve.  
-Practitioners remain.
+Large-scale institutions depend on AV systems — thousands of spaces and tens of thousands of devices supporting mission-critical moments every day.
 
-Lasting improvement in complex AV environments doesn’t come from tools alone. It comes from people who understand the systems deeply, who live with their consequences, and who are committed to improving them over time.
+Those systems depend on people.
 
-Our purpose is to give those practitioners **clarity, credibility, and leverage** — so they can advocate for better systems from within their organizations.
+When responsibility concentrates in practitioners but structural control remains fragmented, agency collapses. Institutions expect governance, visibility, and reliability — yet most AV environments were not designed for observability or manageability at scale.
 
-We don’t sell transformation.  
-We support informed evaluation, shared understanding, and confident internal leadership.
+We exist to accelerate agency — so practitioners can shape outcomes instead of reacting to constraints.
 
 ---
 
-## 🧡 What We Believe
+## The Gap
 
-### 🧠 Practice over perfection
-Large-scale AV systems are never finished. They are improved through disciplined observation and iteration — not one-time deployments.
+Enterprise governance expectations are clear.
 
-### 🔓 Openness is non-negotiable
-We favor transparent architectures and open platforms that can be explained, audited, and sustained — not defended.
+Architectural reality in AV is constrained.
 
-### 🧩 Fragmentation is failure
-Observability fragmented across vendor portals is not observability. Unified architecture is required for system-level clarity.
+- Telemetry is inconsistent.
+- Interfaces are undocumented.
+- Monitoring is fragmented or absent.
+- System health must be inferred across interdependent components.
 
-### 🛡 Ownership is structural
-Practitioners deserve systems they can own, understand, and evolve — without lock-in, per-device taxation, or dependency.
+This structural misalignment — between expectation and architecture — is the Gap.
 
-### 🤝 Knowledge compounds when shared
-Observability is a practice, not a purchase. Learning continues through shared environments, peer exchange, and ongoing refinement.
+Closing it requires deliberate design, unified visibility, and institutional ownership.
 
 ---
 
-## 🛠️ How This Shows Up
+## What We Do
 
-### 🎓 Education & Training  
-We deliver professional education designed to create internal champions — not just transfer information. Our courses emphasize real-world decision-making, risk reduction, and long-term operability.
+We build structure across four surfaces:
 
-### 🧩 Reference Architectures & Tools  
-Through Omniglass and related integrations, we provide opinionated, self-hosted observability environments that make complex AV systems visible, explainable, and defensible.
+### Framework
 
-### 🧑‍💼 Advisory & Professional Services  
-We support evaluation, pilots, and architecture design with an advisory-first posture. Our role is to help practitioners succeed internally, not to push predetermined outcomes.
+The AV Observability Framework (AVOF) — a structured methodology for defining intent, establishing outcomes, modeling health, architecting responsibly, and activating safely.
 
-### 🧭 Practitioner Community  
-We maintain a private practitioner circle where peers connect, share experiences, ask real questions, and learn from one another over time.
+The framework is tool-agnostic. Platforms support it — they do not define it.
+
+### Software
+
+We build and distribute self-hosted observability environments for enterprise AV.
+
+Opinionated. Transparent. Upgradeable. Institution-owned.
+
+### Education
+
+We develop practitioner capability through structured courses, intensives, and ongoing field notes.
+
+Learning is event-based with continuity — designed to create internal champions.
+
+### Advisory
+
+Through the Enterprise AV Observability Accelerator, we align executive intent, practitioner capability, and technical implementation into a coherent, scalable operating model.
+
+Advisory-led. Architecturally grounded. Built for institutional ownership.
 
 ---
 
-## 🌱 We Are the Change
+## Principles
 
-Hyperscale AV is not a platform, a funnel, or a hype engine.
+We accelerate agency by:
 
-It is a growing body of practice — shaped by practitioners who care deeply about doing this work well.
+- Designing for manageability — architecting environments for visibility and control at scale.
+- Building for sovereignty — creating extensible, explainable, institution-owned systems.
+- Developing practitioner capability — strengthening the reasoning, discipline, and technical skill required to operate evolving environments.
 
-If this resonates, you’re not an audience member.  
-You’re already part of the movement.
+---
+
+## Contact
+
+If you are responsible for a large-scale AV environment and exploring how to close the Gap, start a structured conversation.
+
+We accelerate agency.
