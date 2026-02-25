@@ -12,10 +12,10 @@ Large institutions operate AV across thousands of spaces and tens of thousands o
 
 They are expected to provide:
 
-- Measurable performance
-- Defensible reliability
-- Governance alignment
-- Risk visibility
+- Measurable performance  
+- Defensible reliability  
+- Governance alignment  
+- Risk visibility  
 
 Most AV environments were not engineered for structured observability at scale.
 
@@ -29,7 +29,7 @@ We build the architecture that makes it durable.
 
 ## The Architecture
 
-Hyperscale AV operates across two primary surfaces:
+Hyperscale AV operates across two coordinated surfaces:
 
 ### AV Observability Framework
 
@@ -37,13 +37,13 @@ A structured, tool-agnostic architecture for institutional observability.
 
 It defines:
 
-- Intent and outcome alignment
-- Health modeling discipline
-- Signal and data pipeline design
-- Governance structure
-- Phased activation
+- Intent and outcome alignment  
+- Health modeling discipline  
+- Signal and data pipeline design  
+- Governance structure  
+- Phased activation  
 
-Platforms implement the framework. They do not define it.
+Platforms implement the Framework. They do not define it.
 
 ---
 
@@ -51,11 +51,14 @@ Platforms implement the framework. They do not define it.
 
 A self-hosted visibility plane implementing the AV Observability Framework.
 
-- Zabbix-based
-- Proxy-oriented
-- Upgradeable
-- Institution-owned
-- Designed for large-scale environments
+Omniglass is a structured, upgrade-safe distribution pattern built around Zabbix — not a fork, not a proprietary layer.
+
+It is:
+
+- Proxy-oriented  
+- Upgradeable  
+- Institution-owned  
+- Designed for large-scale AV environments  
 
 No SaaS lock-in. No per-device licensing.
 
@@ -71,21 +74,19 @@ Architecture first. Execution second. Stewardship ongoing.
 
 ---
 
-## Principles
+## Design Principles
 
 We design for:
 
-- **Manageability** — visibility and control at scale
-- **Sovereignty** — extensible, explainable, institution-owned systems
-- **Capability** — strengthening practitioner reasoning and discipline
+- **Manageability** — visibility and control at scale  
+- **Sovereignty** — extensible, explainable, institution-owned systems  
+- **Capability** — strengthening practitioner reasoning and discipline  
 
 Technology changes. Platforms change.  
 Institutional responsibility does not.
 
 ---
 
-## Contact
+## Engage
 
 If you operate a large-scale AV environment and are evaluating structured observability architecture, start a focused conversation.
-
----
