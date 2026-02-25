@@ -1,84 +1,91 @@
 # Hyperscale AV
 
-Hyperscale AV advances enterprise AV observability for large-scale institutions.
+Enterprise-grade observability architecture for large-scale institutional AV environments.
 
-We design structure where vigilance once carried the load.
+Designed for governance. Built for scale. Operated in-house.
 
 ---
 
 ## Why
 
-We believe work is better when people have agency.
+Large institutions operate AV across thousands of spaces and tens of thousands of devices.
 
-Large-scale institutions depend on AV systems — thousands of spaces and tens of thousands of devices supporting mission-critical moments every day.
+They are expected to provide:
 
-Those systems depend on people.
+- Measurable performance
+- Defensible reliability
+- Governance alignment
+- Risk visibility
 
-When responsibility concentrates in practitioners but structural control remains fragmented, agency collapses. Institutions expect governance, visibility, and reliability — yet most AV environments were not designed for observability or manageability at scale.
+Most AV environments were not engineered for structured observability at scale.
 
-We exist to accelerate agency — so practitioners can shape outcomes instead of reacting to constraints.
+Telemetry is inconsistent. Health models are undefined. Monitoring is fragmented.
 
----
+Observability must be designed — not improvised.
 
-## The Gap
-
-Enterprise governance expectations are clear.
-
-Architectural reality in AV is constrained.
-
-- Telemetry is inconsistent.
-- Interfaces are undocumented.
-- Monitoring is fragmented or absent.
-- System health must be inferred across interdependent components.
-
-This structural misalignment — between expectation and architecture — is the Gap.
-
-Closing it requires deliberate design, unified visibility, and institutional ownership.
+We build the architecture that makes it durable.
 
 ---
 
-## What We Do
+## The Architecture
 
-We build structure across four surfaces:
+Hyperscale AV operates across two primary surfaces:
 
-### Framework
+### AV Observability Framework
 
-The AV Observability Framework (AVOF) — a structured methodology for defining intent, establishing outcomes, modeling health, architecting responsibly, and activating safely.
+A structured, tool-agnostic architecture for institutional observability.
 
-The framework is tool-agnostic. Platforms support it — they do not define it.
+It defines:
 
-### Software
+- Intent and outcome alignment
+- Health modeling discipline
+- Signal and data pipeline design
+- Governance structure
+- Phased activation
 
-We build and distribute self-hosted observability environments for enterprise AV.
+Platforms implement the framework. They do not define it.
 
-Opinionated. Transparent. Upgradeable. Institution-owned.
+---
 
-### Education
+### Omniglass
 
-We develop practitioner capability through structured courses, intensives, and ongoing field notes.
+A self-hosted visibility plane implementing the AV Observability Framework.
 
-Learning is event-based with continuity — designed to create internal champions.
+- Zabbix-based
+- Proxy-oriented
+- Upgradeable
+- Institution-owned
+- Designed for large-scale environments
 
-### Advisory
+No SaaS lock-in. No per-device licensing.
 
-Through the Enterprise AV Observability Accelerator, we align executive intent, practitioner capability, and technical implementation into a coherent, scalable operating model.
+---
 
-Advisory-led. Architecturally grounded. Built for institutional ownership.
+## Education & Execution
+
+The Framework is taught through Applied Monitoring.
+
+It is implemented through the Observability Accelerator — a structured architecture-to-operation engagement for institutions operating at meaningful scale.
+
+Architecture first. Execution second. Stewardship ongoing.
 
 ---
 
 ## Principles
 
-We accelerate agency by:
+We design for:
 
-- Designing for manageability — architecting environments for visibility and control at scale.
-- Building for sovereignty — creating extensible, explainable, institution-owned systems.
-- Developing practitioner capability — strengthening the reasoning, discipline, and technical skill required to operate evolving environments.
+- **Manageability** — visibility and control at scale
+- **Sovereignty** — extensible, explainable, institution-owned systems
+- **Capability** — strengthening practitioner reasoning and discipline
+
+Technology changes. Platforms change.  
+Institutional responsibility does not.
 
 ---
 
 ## Contact
 
-If you are responsible for a large-scale AV environment and exploring how to close the Gap, start a structured conversation.
+If you operate a large-scale AV environment and are evaluating structured observability architecture, start a focused conversation.
 
-We accelerate agency.
+---
