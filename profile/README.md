@@ -1,8 +1,10 @@
 # Hyperscale AV
 
-Enterprise-grade observability architecture for large-scale institutional AV environments.
+Enterprise-grade AV observability architecture for institutional environments.
 
-Designed for governance. Built for scale. Operated in-house.
+Designed for visibility.  
+Adaptable to change.  
+Built for institutional durability.
 
 ---
 
@@ -10,83 +12,100 @@ Designed for governance. Built for scale. Operated in-house.
 
 Large institutions operate AV across thousands of spaces and tens of thousands of devices.
 
-They are expected to provide:
+They are responsible for delivering:
 
 - Measurable performance  
 - Defensible reliability  
 - Governance alignment  
-- Risk visibility  
+- Operational risk visibility  
 
 Most AV environments were not engineered for structured observability at scale.
 
-Telemetry is inconsistent. Health models are undefined. Monitoring is fragmented.
+Telemetry is inconsistent.  
+Health models are undefined.  
+Monitoring is fragmented across vendors and tools.
 
-Observability must be designed — not improvised.
+Observability must be designed, not improvised.
 
-We build the architecture that makes it durable.
+Hyperscale AV exists to provide the architectural structure required to operate AV environments with clarity and institutional control.
 
 ---
 
 ## The Architecture
 
-Hyperscale AV operates across two coordinated surfaces:
+Hyperscale AV operates across two coordinated surfaces.
 
 ### AV Observability Framework
 
-A structured, tool-agnostic architecture for institutional observability.
+The **AV Observability Framework** defines the architecture for institutional AV observability.
+
+It is **tool-agnostic** and establishes the structural discipline required to design sustainable monitoring systems.
 
 It defines:
 
 - Intent and outcome alignment  
-- Health modeling discipline  
+- System health modeling  
 - Signal and data pipeline design  
-- Governance structure  
-- Phased activation  
+- Governance and operational structure  
+- Phased activation of observability capabilities  
 
-Platforms implement the Framework. They do not define it.
+Platforms implement the Framework.  
+They do not define it.
 
 ---
 
 ### Omniglass
 
-A self-hosted visibility plane implementing the AV Observability Framework.
+**Omniglass** is the reference implementation of the AV Observability Framework.
 
-Omniglass is a structured, upgrade-safe distribution pattern built around Zabbix — not a fork, not a proprietary layer.
+It is a structured, self-hosted visibility plane built around Zabbix.
 
-It is:
+Omniglass is **not a fork** and **not a proprietary monitoring platform**.  
+It is an upgrade-safe distribution pattern designed for large-scale AV environments.
 
-- Proxy-oriented  
-- Upgradeable  
-- Institution-owned  
-- Designed for large-scale AV environments  
+Key characteristics:
 
-No SaaS lock-in. No per-device licensing.
+- Proxy-oriented architecture  
+- Upgrade-safe Zabbix distribution  
+- Institution-owned infrastructure  
+- Designed for large-scale AV deployments  
+
+No SaaS dependency.  
+No per-device licensing.
+
+Institutions retain full control of their observability infrastructure.
 
 ---
 
 ## Education & Execution
 
-The Framework is taught through Applied Monitoring.
+The Framework is taught through **Applied Monitoring**.
 
-It is implemented through the Observability Accelerator — a structured architecture-to-operation engagement for institutions operating at meaningful scale.
+Institutional deployments are supported through the **Observability Accelerator**, a structured architecture-to-operation engagement designed for large-scale environments.
 
-Architecture first. Execution second. Stewardship ongoing.
+Architecture first.  
+Implementation second.  
+Operational stewardship ongoing.
 
 ---
 
 ## Design Principles
 
-We design for:
+Hyperscale AV systems are designed for:
 
-- **Manageability** — visibility and control at scale  
-- **Sovereignty** — extensible, explainable, institution-owned systems  
-- **Capability** — strengthening practitioner reasoning and discipline  
+- **Visibility** — environments that can be clearly understood  
+- **Adaptability** — systems that can evolve as technology and requirements change  
+- **Durability** — structures that endure beyond individual platforms or vendors  
 
-Technology changes. Platforms change.  
+Technology changes.  
+Platforms change.  
+
 Institutional responsibility does not.
 
 ---
 
 ## Engage
 
-If you operate a large-scale AV environment and are evaluating structured observability architecture, start a focused conversation.
+Hyperscale AV supports institutions designing observability architecture for large-scale AV environments.
+
+Organizations operating complex AV environments can evaluate the Framework and Omniglass to establish durable operational visibility.
