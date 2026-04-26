@@ -1,111 +1,90 @@
 # Hyperscale AV
 
-Enterprise-grade AV observability architecture for institutional environments.
+An architectural practice for AV observability at institutional scale.
 
-Designed for visibility.  
-Adaptable to change.  
-Built for institutional durability.
+**Clarity. Control. Capability.**
+
+Clarity to see what is actually happening across thousands of rooms.
+Control to make the changes the situation needs, with both the
+authorization and the technical means. Capability, in-house and
+durable, to know what changes to make.
 
 ---
 
 ## Why
 
-Large institutions operate AV across thousands of spaces and tens of thousands of devices.
+Most AV environments were not engineered for observability at scale.
+Telemetry is inconsistent. Health models are undefined. Visibility is
+fragmented across vendor portals that each see one slice. At a few
+hundred rooms a team can brute-force this with tribal knowledge. Past
+that, dashboards stop being the answer.
 
-They are responsible for delivering:
-
-- Measurable performance  
-- Defensible reliability  
-- Governance alignment  
-- Operational risk visibility  
-
-Most AV environments were not engineered for structured observability at scale.
-
-Telemetry is inconsistent.  
-Health models are undefined.  
-Monitoring is fragmented across vendors and tools.
-
-Observability must be designed, not improvised.
-
-Hyperscale AV exists to provide the architectural structure required to operate AV environments with clarity and institutional control.
+Operational structure starts to matter.
 
 ---
 
-## The Architecture
+## Four pillars
 
-Hyperscale AV operates across two coordinated surfaces.
+The practice rests on four co-equal pillars. None is a funnel for the
+others.
 
 ### AV Observability Framework
 
-The **AV Observability Framework** defines the architecture for institutional AV observability.
+A free, open, tool-agnostic methodology for instrumenting and reasoning
+about AV environments at scale. Defines intent and outcome alignment,
+system health modeling, signal and data pipeline design, governance,
+and phased activation. Platforms implement the framework. They do not
+define it.
 
-It is **tool-agnostic** and establishes the structural discipline required to design sustainable monitoring systems.
+### Training
 
-It defines:
-
-- Intent and outcome alignment  
-- System health modeling  
-- Signal and data pipeline design  
-- Governance and operational structure  
-- Phased activation of observability capabilities  
-
-Platforms implement the Framework.  
-They do not define it.
-
----
+Structured education that teaches teams to apply the framework.
+**Applied Monitoring** is the current flagship course. Capability
+transfer to in-house teams is the goal; ongoing dependence on
+Hyperscale AV is a failure mode.
 
 ### Omniglass
 
-**Omniglass** is the reference implementation of the AV Observability Framework.
+A self-hosted visibility plane that implements the framework on top of
+Zabbix. Open-source (AGPLv3), proxy-oriented, upgrade-safe. Built on
+supported Zabbix extension points, not source patches.
 
-It is a structured, self-hosted visibility plane built around Zabbix.
+Omniglass is one implementation of the framework. It is not the
+definition.
 
-Omniglass is **not a fork** and **not a proprietary monitoring platform**.  
-It is an upgrade-safe distribution pattern designed for large-scale AV environments.
+### Observability Accelerator
 
-Key characteristics:
-
-- Proxy-oriented architecture  
-- Upgrade-safe Zabbix distribution  
-- Institution-owned infrastructure  
-- Designed for large-scale AV deployments  
-
-No SaaS dependency.  
-No per-device licensing.
-
-Institutions retain full control of their observability infrastructure.
+A scoped, fixed-fee engagement that moves observability from intent to
+operating capability. Architecture, implementation, and governance in
+one structured progression.
 
 ---
 
-## Education & Execution
+## Values
 
-The Framework is taught through **Applied Monitoring**.
+How tradeoffs get resolved when building, shipping, and talking about
+the work.
 
-Institutional deployments are supported through the **Observability Accelerator**, a structured architecture-to-operation engagement designed for large-scale environments.
-
-Architecture first.  
-Implementation second.  
-Operational stewardship ongoing.
-
----
-
-## Design Principles
-
-Hyperscale AV systems are designed for:
-
-- **Visibility** — environments that can be clearly understood  
-- **Adaptability** — systems that can evolve as technology and requirements change  
-- **Durability** — structures that endure beyond individual platforms or vendors  
-
-Technology changes.  
-Platforms change.  
-
-Institutional responsibility does not.
+- **Institutional ownership over SaaS.** Self-hosting is the default,
+  not a deployment option. Telemetry stays inside the customer's
+  network unless explicitly routed out.
+- **Standards before tools.** Health models, signal architecture, and
+  governance are designed first. Platforms implement them.
+- **Transparency over abstraction.** Operators must be able to see
+  what the system is doing and why. Hidden state and unexplainable
+  automation are defects.
+- **Capability transfer over dependency.** Engagements equip the
+  institution to own the operating model. A client that still needs
+  our staff to operate the platform a year after deployment is a
+  failure of the engagement, not a success of the business model.
 
 ---
 
 ## Engage
 
-Hyperscale AV supports institutions designing observability architecture for large-scale AV environments.
+Institutions evaluating observability architecture for large-scale AV
+environments can begin with the
+[Framework](https://hyperscaleav.com/framework) or the
+[Accelerator](https://hyperscaleav.com/accelerator).
 
-Organizations operating complex AV environments can evaluate the Framework and Omniglass to establish durable operational visibility.
+[hyperscaleav.com](https://hyperscaleav.com)
