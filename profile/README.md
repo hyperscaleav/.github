@@ -62,21 +62,17 @@ one structured progression.
 
 ## Values
 
-How tradeoffs get resolved when building, shipping, and talking about
-the work.
+The brand promise, expressed as a triad. Each term names a separate
+prerequisite for owning AV operations. You need all three.
 
-- **Institutional ownership over SaaS.** Self-hosting is the default,
-  not a deployment option. Telemetry stays inside the customer's
-  network unless explicitly routed out.
-- **Standards before tools.** Health models, signal architecture, and
-  governance are designed first. Platforms implement them.
-- **Transparency over abstraction.** Operators must be able to see
-  what the system is doing and why. Hidden state and unexplainable
-  automation are defects.
-- **Capability transfer over dependency.** Engagements equip the
-  institution to own the operating model. A client that still needs
-  our staff to operate the platform a year after deployment is a
-  failure of the engagement, not a success of the business model.
+- **Clarity.** See what is happening. Visibility into the AV estate
+  that reflects the real state of systems, not vendor portal noise.
+- **Control.** Make the changes the situation needs. Both the
+  authorization to act and the technical means to act. Governance
+  without ability is theatre; ability without governance is risk.
+- **Capability.** Know what changes to make. Architectural
+  understanding and operational skill, in-house, durable beyond
+  any individual.
 
 ---
 
