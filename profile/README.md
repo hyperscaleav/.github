@@ -2,31 +2,33 @@
 
 An architectural practice for AV observability at institutional scale.
 
-**Clarity. Control. Capability.**
+We exist to give AV pros agency over their own environments. The
+ability to see, the ability to decide, the ability to act, in their
+own infrastructure, on their own terms. Not handed to them by vendors,
+not rented through portals.
 
-Clarity to see what is actually happening across thousands of rooms.
-Control to make the changes the situation needs, with both the
-authorization and the technical means. Capability, in-house and
-durable, to know what changes to make.
+**Clarity. Control. Capability.** The three components of that agency.
 
 ---
 
 ## Why
 
-Most AV environments were not engineered for observability at scale.
-Telemetry is inconsistent. Health models are undefined. Visibility is
-fragmented across vendor portals that each see one slice. At a few
-hundred rooms a team can brute-force this with tribal knowledge. Past
-that, dashboards stop being the answer.
+Most AV teams operate without agency today. Visibility is fragmented
+across vendor portals that each see one slice. Decisions are
+constrained by tooling and infrastructure they do not control. Action
+is mediated through support tickets to companies whose incentives are
+misaligned with theirs.
 
-Operational structure starts to matter.
+At a few hundred rooms a team can brute-force this with tribal
+knowledge. Past that, dashboards stop being the answer. Operational
+structure starts to matter.
 
 ---
 
 ## Four pillars
 
 The practice rests on four co-equal pillars. None is a funnel for the
-others.
+others. Each is a mechanism by which we deliver a component of agency.
 
 ### AV Observability Framework
 
@@ -56,23 +58,23 @@ definition.
 
 A scoped, fixed-fee engagement that moves observability from intent to
 operating capability. Architecture, implementation, and governance in
-one structured progression.
+one progression.
 
 ---
 
 ## Values
 
-The brand promise, expressed as a triad. Each term names a separate
-prerequisite for owning AV operations. You need all three.
+Agency has three components. Order is load-bearing: see → decide → act.
 
-- **Clarity.** See what is happening. Visibility into the AV estate
-  that reflects the real state of systems, not vendor portal noise.
-- **Control.** Make the changes the situation needs. Both the
-  authorization to act and the technical means to act. Governance
-  without ability is theatre; ability without governance is risk.
-- **Capability.** Know what changes to make. Architectural
-  understanding and operational skill, in-house, durable beyond
-  any individual.
+- **Clarity. The ability to see.** Visibility into the AV estate that
+  reflects the real state of systems, not vendor portal noise.
+- **Control. The ability to decide.** Authority over the environment,
+  with the technical means to act on that authority. Your systems,
+  your decisions, your ability to change what needs changing without
+  waiting for a vendor's permission.
+- **Capability. The ability to act.** The understanding to know what
+  changes to make and the skill to make them well. Architectural and
+  operational expertise, in-house, durable beyond any individual.
 
 ---
 
