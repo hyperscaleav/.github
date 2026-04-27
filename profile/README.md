@@ -19,16 +19,35 @@ constrained by tooling and infrastructure they do not control. Action
 is mediated through support tickets to companies whose incentives are
 misaligned with theirs.
 
-At a few hundred rooms a team can brute-force this with tribal
-knowledge. Past that, dashboards stop being the answer. Operational
-structure starts to matter.
+Chaos is the norm. Teams run three or more vendor tools and still
+verify rooms by walking them, sneaker-net augmenting whichever portal
+happens to know the device involved. None of those tools sees the
+whole room. None tells the team whether the room actually works, only
+whether one piece is reachable. Scale doesn't break the pattern. It
+exposes it.
 
 ---
 
-## Four pillars
+## Values
 
-The practice rests on four co-equal pillars. None is a funnel for the
-others. Each is a mechanism by which we deliver a component of agency.
+Agency has three components. Order is load-bearing: see → decide → act.
+
+- **Clarity. The ability to see.** Visibility into the AV estate that
+  reflects the real state of systems, not vendor portal noise.
+- **Control. The ability to decide.** Authority over the environment,
+  with the technical means to act on that authority. Your systems,
+  your decisions, your ability to change what needs changing without
+  waiting for a vendor's permission.
+- **Capability. The ability to act.** The understanding to know what
+  changes to make and the skill to make them well. Architectural and
+  operational expertise, in-house, durable beyond any individual.
+
+---
+
+## What we offer
+
+Four co-equal offerings. None is a funnel for the others. Each is a
+mechanism by which we deliver a component of agency.
 
 ### AV Observability Framework
 
@@ -59,22 +78,6 @@ definition.
 A scoped, fixed-fee engagement that moves observability from intent to
 operating capability. Architecture, implementation, and governance in
 one progression.
-
----
-
-## Values
-
-Agency has three components. Order is load-bearing: see → decide → act.
-
-- **Clarity. The ability to see.** Visibility into the AV estate that
-  reflects the real state of systems, not vendor portal noise.
-- **Control. The ability to decide.** Authority over the environment,
-  with the technical means to act on that authority. Your systems,
-  your decisions, your ability to change what needs changing without
-  waiting for a vendor's permission.
-- **Capability. The ability to act.** The understanding to know what
-  changes to make and the skill to make them well. Architectural and
-  operational expertise, in-house, durable beyond any individual.
 
 ---
 
